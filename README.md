@@ -57,7 +57,8 @@ Build an interactive dashboard to give stakeholders a high-level view of key per
 
 ## Dashboard Preview
 
-![SuperStore Sales Report](https://github.com/user-attachments/assets/2c50fded-8056-40c8-8da7-256de6d3a60d)
+![Super Store Sales Report](https://github.com/user-attachments/assets/00fd3ec1-9637-4b21-afeb-3ba931b24c77)
+
 
 
   
