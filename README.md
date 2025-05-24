@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Super Store Sales Performance & Profitability Analysis
 Super Store Sales Dashboard – Power BI Project
 
 Build an interactive dashboard to give stakeholders a high-level view of key performance metrics such as total sales, profit, quantity sold and delivery efficiency.
