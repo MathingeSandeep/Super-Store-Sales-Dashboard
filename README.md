@@ -1,5 +1,6 @@
 # Super Store Sales Performance & Profitability Analysis
-Super Store Sales Dashboard – Power BI Project
+
+## Super Store Sales Dashboard – Power BI Project
 
 Build an interactive dashboard to give stakeholders a high-level view of key performance metrics such as total sales, profit, quantity sold and delivery efficiency.
 
@@ -15,7 +16,7 @@ Build an interactive dashboard to give stakeholders a high-level view of key per
 
 ## Steps Followed
 
-1. Data Import & Cleaning
+### 1. Data Import & Cleaning
    
 - Opened the dataset from Excel.
 
@@ -25,9 +26,7 @@ Build an interactive dashboard to give stakeholders a high-level view of key per
 
 - Imported the dataset through Postgresql to Power BI.
 
-2. Visualization & Report Design
-   
-    Designed multiple interactive visuals to answer key business questions:
+### 2. Visualization & Report Design
 
 - Card KPIs: Display Sales (1.6M), Quantity (22K), Profit (175K), Delivery Time (4 days)
 
